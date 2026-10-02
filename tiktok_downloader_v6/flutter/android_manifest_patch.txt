@@ -1,0 +1,2 @@
+Add these permissions inside android/app/src/main/AndroidManifest.xml if your Flutter template does not already include internet access:
+<uses-permission android:name="android.permission.INTERNET" />
