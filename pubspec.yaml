@@ -1,0 +1,19 @@
+name: social_downloader_v6
+description: Social media downloader client for Flutter.
+publish_to: "none"
+version: 6.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  dio: ^5.7.0
+  shared_preferences: ^2.3.3
+  path_provider: ^2.1.5
+  gal: ^2.3.0
+
+flutter:
+  uses-material-design: true
